@@ -2,10 +2,10 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
+    name: 'My Personel Arm images',
     description: 'The official store for Kasm supported workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
+    listUrl: 'https://kpanuragh.github.io/kasm-registry',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
